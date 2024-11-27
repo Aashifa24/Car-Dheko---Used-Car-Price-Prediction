@@ -13,7 +13,7 @@ The following files are included in the project:
 - **`project.ipynb`**: The Jupyter Notebook containing the overall code for data analysis, preprocessing, feature engineering, and model training.
 - **`car_dekho_project_report.pdf`**: A comprehensive report detailing the project overview, objectives, methodology, and justification behind the model and approach.
 - **`user_guide.pdf`**: A user guide explaining how to use the Streamlit application for car price prediction.
-- **`demo.mp4`**: A demo video showcasing how the Streamlit app works and how users can interact with it.
+- **`demo.zip`**: A zipped folder of demo video showcasing how the Streamlit app works and how users can interact with it.
 - **`app.py`**: The Streamlit Python script that implements the interactive web application for car price prediction.
 - **`cleaned_cars_dataset.csv`**: The cleaned dataset used for model training, containing all the relevant car features.
 
